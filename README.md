@@ -1,5 +1,4 @@
 # neoflex_project
-# project
 
 ## Project setup
 ```
